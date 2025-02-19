@@ -1,7 +1,7 @@
 ---
-title: About
+title: Markdown Guide
 layout: page
-permalink: /about
+permalink: /markdown guide
 ---
 This is an example of a file written in [Markdown](https://daringfireball.net/projects/markdown/). Notice how
 this file lacks the normal HTML tags you may be used to seeing on website source code. Instead there is a simple syntax for applying most of the basic HTML formatting we use every day.
