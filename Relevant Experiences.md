@@ -2,6 +2,10 @@
 title: Relevant Experiences
 layout: page
 permalink: /relevant experiences
+work1: Course Work
+work2: Work Experience
 ---
-## This is page will list various course and work experience I've done 
+## {{ page.work1 }}
+
+## {{ page.work2 }}
 
