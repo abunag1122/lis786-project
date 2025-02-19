@@ -6,9 +6,6 @@ work1: Course Work
 work2: Work Experience
 ---
 ## {{ page.work1 }}
-
-{% include page-images.html %}
-
 - list item one
 - list item two
 - list item three
