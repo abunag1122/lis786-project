@@ -1,12 +1,12 @@
 title: Arwin Bunag ePortfolio
 theme: minima
 collections:
-  collection:
+  course-experiences:
     output: true
 
 
 defaults:
   - scope:
-      type: "collection"
+      type: "course-experiences"
     values:
-      layout: collection_item
+      layout: course experience
