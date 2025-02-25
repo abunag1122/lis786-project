@@ -2,19 +2,12 @@
 title: Relevant Experiences
 layout: page
 permalink: /relevant experiences
-work1: Course Work
-work2: Work Experience
-work3: Courses
 ---
-## {{ page.work1 }}
+<h2>Work Experience</h2>
 
-
-## {{ page.work3 }}
-- list item one
-- list item two
-- list item three
-
-## {{ page.work2 }}
-- list item one
-- list item two
-- list item three
+<h2> Relevant Courses </h2>
+{% for course-experience in site.course-experiences %}
+    <!---DO SOMETHING-->
+    <h3>{{ course-experience.title }}</h3>
+    <p>{{ course-experience.content }}</p>
+{% endfor %}
