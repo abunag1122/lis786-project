@@ -7,3 +7,4 @@ permalink: /resume
 
 {% include page-images.html %}
 
+![resume](./images/Resume 2025.pdf)
