@@ -3,6 +3,13 @@
 
 @import "{{ site.theme }}";
 
+h1 {
+     font-family: helvetica;
+     font-weight: bold;
+
+}
+     
+
 body {
-    background-color: antiquewhite;
+    background-color: #FAF9F6;
 }
