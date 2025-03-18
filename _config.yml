@@ -3,10 +3,16 @@ theme: minima
 collections:
   course-experiences:
     output: true
-
+  work-experiences:
+    output: true
 
 defaults:
   - scope:
       type: "course-experiences"
     values:
       layout: course experience
+
+  - scope:
+      type: "work-experiences"
+    values:
+      layout: work experience
