@@ -4,6 +4,10 @@ layout: page
 permalink: /relevant experiences
 ---
 <h2>Work Experience</h2>
+{% for course-experience in site.work-experiences %}
+    <!---DO SOMETHING-->
+    <h3>{{ work-experience.title }}</h3>
+    <p>{{ work-experience.content }}</p>
 
 <h2> Relevant Courses </h2>
 {% for course-experience in site.course-experiences %}
