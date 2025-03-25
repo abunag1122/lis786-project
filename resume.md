@@ -7,4 +7,4 @@ permalink: /resume
 
 <center> {% include page-images.html %} </center>
 
-<center>![resume](/lis786-project/images/resume2025.jpg)</center>
+![resume](/lis786-project/images/resume2025.jpg)
