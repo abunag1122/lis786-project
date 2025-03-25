@@ -1,6 +1,6 @@
 ---
 Title: PHIL 238 
-layout: course experience
+layout: course-experience
 ---
 ## Ethics of Artificial Intelligence
 # Taken: Spring Semester 2024 - 2025

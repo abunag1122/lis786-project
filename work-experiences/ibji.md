@@ -1,6 +1,6 @@
 ---
 Title:  Illinois Bone & Joint Institute - Park Ridge, IL
-layout: work experience
+layout: work-experience
 ---
 
 ## Rehabilitation Technician

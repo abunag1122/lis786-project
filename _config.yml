@@ -10,9 +10,9 @@ defaults:
   - scope:
       type: "course-experiences"
     values:
-      layout: course experience
+      layout: course-experience
 
   - scope:
       type: "work-experiences"
     values:
-      layout: work experience
+      layout: work-experience

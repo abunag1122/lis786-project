@@ -1,6 +1,6 @@
 ---
 Title:  Dominican University - River Forest, IL
-layout: work experience
+layout: work-experience
 ---
 
 ## Student Research Assistant

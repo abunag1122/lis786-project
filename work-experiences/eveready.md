@@ -1,6 +1,6 @@
 ---
 Title:  Eveready Medi-Car Transport LLC - Skokie, IL
-layout: work experience
+layout: work-experience
 ---
 
 ## Accounting and Correspondence Secretary
