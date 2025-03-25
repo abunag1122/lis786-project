@@ -4,8 +4,8 @@ layout: work-experience
 ---
 
 # Accounting and Correspondence Secretary
-Location: Skokie, IL
-From: April 2022 - Present
+Location: Skokie, IL\
+From: April 2022 - Present\
 Duties & Responsibilities 
 
 - Online correspondence

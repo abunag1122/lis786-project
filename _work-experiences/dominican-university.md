@@ -4,8 +4,8 @@ layout: work-experience
 ---
 
 # Student Research Assistant
-Location: River Forest, IL
-From: September 2024 - April 2025
+Location: River Forest, IL\
+From: September 2024 - April 2025\
 Duties & Responsibilities 
 
 - Data Collection
