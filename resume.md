@@ -5,6 +5,6 @@ permalink: /resume
 ---
 # <center> Working Resume, 2025 </center>
 
-{% include page-images.html %}
+<center> {% include page-images.html %} </center>
 
-![resume](/lis786-project/images/resume2025.jpg)
+<Center> ![resume](/lis786-project/images/resume2025.jpg) </center>
